@@ -21,3 +21,13 @@ TECH USED
     PASSPORT-LOCAL
     SEQUELIZE
 
+GETTING STARTED
+
+To begin using this app, please clone this repository into your local storage. Once this is complete, please follow these steps;
+
+create a mysql db called "passport_demo"
+go into the config file, open config.js and insert your personal data ie username, password etc
+open terminal in current repo and run "npm i" to install all node packages
+while in terminal, run "node server.js" and you will successfully connect to server
+open browser and put "http://localhost:8080" in search bar
+
